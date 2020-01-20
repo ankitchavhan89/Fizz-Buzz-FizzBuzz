@@ -1,0 +1,21 @@
+{
+  "name": "fizz-buzz",
+  "version": "1.0.0",
+  "description": "Fizz Buzz FizzBuzz",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "Ankit",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.14.8"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
