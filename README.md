@@ -15,3 +15,14 @@ For numbers which are multiples of both 3 and 5, print FizzBuzz; instead of the 
 ```sh
 $ npm start
 ```
+
+## Postman
+Api type (POST)
+```sh
+http://localhost:3000/
+```
+
+## Parameter
+```sh
+{ "count": 100 }
+```
